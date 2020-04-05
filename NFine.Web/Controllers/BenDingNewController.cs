@@ -20,7 +20,7 @@ namespace NFine.Web.Controllers
 /// 本鼎插件模式新接口
 /// </summary>
     public class BenDingNewController : ApiController
-    {
+    {//
         private readonly IWebBasicRepository _webServiceBasicRepository;
         private readonly IHisSqlRepository _hisSqlRepository;
         private readonly IWebServiceBasicService _webServiceBasicService;
